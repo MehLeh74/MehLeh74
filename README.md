@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehLeh74
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java 21.03.2022
+- 🌱 I’m currently learning Java 15.11.2024
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me ...
 
